@@ -1,10 +1,8 @@
-#1 API axios call using react Effect hook React Hooks
+# 1 API axios call using react Effect hook React Hooks
 
+# 2 API axios call Pass by Id on Button Click 
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 3 Use Context Hook FunctionComponent>3ContextHook
 
 ## Available Scripts
 
